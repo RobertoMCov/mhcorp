@@ -8,9 +8,6 @@ function App() {
 
   return (
     <>
-      <div className="text-xl p-2 text-center">
-        El comienzo de algo grande
-      </div>
       <p className="p-2 text-center">MH - CORP :v </p>
     </>
   )
