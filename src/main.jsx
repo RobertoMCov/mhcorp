@@ -5,6 +5,6 @@ import App from './App'
 createRoot(document.getElementById('root')).render(
   <>
   <App />
-  <p>El comienzo de mhcorp equisde papu</p>
+  <p>El comienzo de mhcorp equisde papu :v</p>
   </>,
 )
